@@ -1,0 +1,10 @@
+.list {
+  float: left;
+  border: solid;
+  margin-left: 20px;
+  padding: 10px;
+}
+
+.red {
+  color: "red";
+}
